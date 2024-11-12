@@ -918,11 +918,14 @@ body {
     max-width: 80rem;
     gap: 1.25rem;
     flex-direction: row;
-    align-items: flex-start;
+    align-items: center;
   }
   #hero-1946 .cs-flex {
     width: 50%;
     max-width: 39.375rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 }
 
